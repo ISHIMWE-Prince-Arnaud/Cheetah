@@ -1,0 +1,27 @@
+main {
+          padding: 10px;
+      }
+      
+      main div {
+          display: flex;
+          overflow-x: auto;
+          white-space: nowrap;
+          gap: 10px;
+          scroll-behavior: smooth;
+          scrollbar-width: none;
+          max-width: 100%;
+      }
+      
+      main div img {
+          width: auto;
+          height: 300px; /* Adjust height as needed */
+          object-fit: cover;
+          border-radius: 10px;
+          opacity: 0.5;
+          transition: height 1s linear, opacity 1s linear;
+      }
+
+      main div img:hover {
+          opacity: 1;
+          height: 350px;
+      }

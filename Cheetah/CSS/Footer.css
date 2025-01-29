@@ -1,0 +1,64 @@
+body {
+          margin: 0;
+          padding: 0;
+
+}
+
+footer {
+          background-color: black;
+          width: 100%;
+          margin: 0;
+          padding: 0;
+}
+
+.align-left {
+          float: left;
+          display: flex;
+}
+
+.align-left img {
+          width: 8rem;
+          height: 8rem;
+}
+
+footer h6 {
+          color: #FFDF00;
+          font-size: 3rem;
+          text-align: center;
+          position: relative;
+          top: -50px;
+}
+
+footer p {
+          color: white;
+          font-size: 2rem;
+          text-align: center;
+          position: relative;
+}
+
+.align-left h6 {
+          left: 50px;
+}
+
+.align-left p {
+          top: 50px;
+          left: -165px;
+}
+
+.align-right img {
+          width: 40px;
+          height: 40px;
+          margin-right: 20px;
+          position: relative;
+          bottom: 120px;
+          left: 240px;
+}
+
+.align-right {
+          position: relative;
+          bottom: -70px;
+}
+
+.footer-p {
+          right: 300px;
+}
