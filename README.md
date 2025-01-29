@@ -5,61 +5,90 @@ A beautifully designed website providing information about cheetahs, their speed
 
 Table of Contents:
 
-About
+1.About
 
-Features
+2.Features
 
-Installation
+3.Installation
 
-Usage
+4.Usage
 
-Contributing
+5.Contributing
 
-License
+6.License
 
-Contact
+7.Contact
 
-About:
+1.About:
 
 This website is an educational project that explores:
 
 The speed and agility of cheetahs 🏃‍♂️
-Their hunting techniques and diet 🍖
-The threats they face in the wild 🌍
-Conservation efforts to protect cheetahs 🛡️
-Features
-✔️ Home Page: Introduction to cheetahs
-✔️ Gallery: Stunning images of cheetahs
-✔️ Hunting Behavior: How cheetahs catch their prey
-✔️ Conservation: Ways to protect cheetahs
-✔️ Responsive Design: Works on mobile and desktop
 
-Installation
+Their hunting techniques and diet 🍖
+
+The threats they face in the wild 🌍
+
+Conservation efforts to protect cheetahs 🛡️
+
+
+2.Features:
+
+✔️ Home Page: Introduction to cheetahs
+
+✔️ Gallery: Stunning images of cheetahs
+
+✔️ Predation: How cheetahs catch their prey
+
+✔️ Conservation: Ways to protect cheetahs
+
+✔️ Speed: Cheetah's speed in relation to other animals.\
+
+
+3.Installation:
+
 To run this website locally:
 
-sh
-Copy
-Edit
 git clone https://github.com/ISHIMWE-Prince-Arnaud/Cheetah.git
+
 cd Cheetah
+
 Then, open index.html in your browser.
 
-Usage
+
+4.Usage:
+
 Simply visit the website to explore everything about cheetahs. You can also customize it by editing the HTML, CSS, and JavaScript files.
 
-Contributing
+
+5.Contributing:
+
 Want to improve the website? Follow these steps:
 
 Fork the repository
+
 Create a new branch (git checkout -b feature-branch)
+
 Commit your changes (git commit -m "Added new section")
+
 Push to GitHub (git push origin feature-branch)
+
 Open a Pull Request
 
-License
+
+6.License:
+
 📜 This project is licensed under the MIT License – free to use and modify.
 
-Contact
-📧 Email: your-email@example.com
-🐦 Twitter: @yourhandle
-🌐 Website: yourwebsite.com
+
+7.Contact:
+
+📧 Email: princeishimwe754@gmail.com
+
+🐦 Twitter: @Ishkpro
+
+LinkedIn: ISHIMWE Prince Arnaud
+
+Patreon: patreon.com/Ish_k_pro
+
+Instagram: Ish k pro
