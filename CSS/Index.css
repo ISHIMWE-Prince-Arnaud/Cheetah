@@ -1,0 +1,48 @@
+main {
+          display: flex;
+          margin: 2rem 0 0 0;
+}
+
+main div {
+          background-color: #F3E1C4;
+          width: 40rem;
+          height: 40rem;
+          margin: 5px;
+          border: none;
+          border-radius: 3rem;
+}
+
+main img {
+          width: 300px;
+          height: 200px;
+          margin: 15px 15px 0 15px;
+}
+
+main p, a {
+          text-align: center;
+          font-size: 200%;
+}
+
+main p {
+          margin-bottom: 50px;
+}
+
+main a {
+          text-decoration: none;
+          position: relative;
+          left: 6rem;
+          padding: 2rem 4rem;
+          border: 3px solid #FFDF00;
+          border-radius: 2rem;
+          color: blue;
+          transition: background-color 0.5s linear;
+}
+
+main a:hover {
+          background-color: #FFDF00;
+}
+
+footer {
+          position: fixed;
+          bottom: 0;
+}
